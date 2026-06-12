@@ -11,3 +11,14 @@
     font-size: 24px;
 }
 
+#two-line{
+    color: rgba(55, 55, 234, 1.0);
+    font-size: 36px;
+
+}
+
+#four-line{
+    background-color: rgba(50, 249, 50, 0.726);
+    font-size: 24px;
+    font-weight: 900;
+}
