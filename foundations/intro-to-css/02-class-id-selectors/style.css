@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+.odd-paragraph,
+.three-line {
+       background-color: rgba(238, 117, 117, 0.8);
+       font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+
+}
+
+.three-line{
+    font-size: 24px;
+}
+
