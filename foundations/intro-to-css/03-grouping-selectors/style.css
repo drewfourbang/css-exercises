@@ -1,7 +1,17 @@
 /* Add CSS Styling */
 
-.font{
-    font-family: 'Times New Roman', Helvetica, sans-serif;
+.click-me, 
+.no-click-me {
+    font-family: "Times New Roman", Helvetica, sans-serif;
     font-size: 28px;
+}
+
+.click-me{
+    background-color: #000000;
+    color: hsl(0, 0%, 100%);
+}
+
+.no-click-me{
+    background-color: #ffff00;
 
 }
